@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textButton" type="id" />
+    <item name="sevenButton" type="id" />
+    <item name="fourButton" type="id" />
+    <item name="oneButton" type="id" />
+    <item name="pointButton" type="id" />
+    <item name="eightButton" type="id" />
+    <item name="fiveButton" type="id" />
+    <item name="twoButton" type="id" />
+    <item name="zeroButton" type="id" />
+    <item name="nineButton" type="id" />
+    <item name="sixButton" type="id" />
+    <item name="threeButton" type="id" />
+    <item name="equation" type="id" />
+    <item name="deleteButton" type="id" />
+    <item name="divideButton" type="id" />
+    <item name="minusButton" type="id" />
+    <item name="sumButton" type="id" />
+    <item name="sumbutton" type="id" />
+    <item name="subbutton" type="id" />
+    <item name="multiply" type="id" />
+    <item name="divide" type="id" />
+    <item name="text_operation" type="id" />
+</resources>
